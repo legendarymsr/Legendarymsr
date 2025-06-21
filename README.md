@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi there, I’m legendarymsr!
 
-<!--
-**legendarymsr/Legendarymsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🐧 Linux Hobbyist | Dotfiles Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I’m a passionate Linux hobbyist who loves exploring, tweaking, and customizing all things Linux. My main playgrounds are **Arch Linux** and **NixOS**, where I enjoy experimenting with different setups, window managers, and install scripts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌟 What I Do
+
+- 🚀 **Fast Arch Setups:** I’m skilled at rapidly installing Arch Linux and getting up and running in no time.
+  - 🛠 **Simple, Detailed Install Scripts:** I value clean, well-documented scripts that make life easier for fellow Linux enthusiasts.
+- 📚 **Constant Learning:** I love exploring new Linux tools, configs, and ways to make my environment even better.
+
+---
+
+### 🔥 Favorite Projects
+
+- [`hyprland-dotfiles-arch`](https://github.com/Hyde-project/hyde) — dotfiles and setup scripts for Hyprland on Arch Linux.
+- [`hyprland-dotfiles-nix`](https://github.com/Frost-Phoenix/nixos-config) — NixOS configurations and dotfiles for a slick Hyprland experience.
+
+---
+
+### 💡 Fun Facts
+
+- Always up for a challenge—whether it’s a fresh install or testing a new window manager!
+- Exploring and learning is what keeps me excited about open source.
