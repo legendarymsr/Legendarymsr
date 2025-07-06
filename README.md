@@ -44,3 +44,8 @@ Welcome to my GitHub profile! I’m a passionate Linux hobbyist who loves explor
 <p>
 </p>
 </div>
+Taken from 
+
+- [`gnukeith`](https://x.com/gnukeith)
+
+- [`gnukeith's github`](https://github.com/gnukeith)  
