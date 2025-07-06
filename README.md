@@ -25,3 +25,9 @@ Welcome to my GitHub profile! I’m a passionate Linux hobbyist who loves explor
 
 - Always up for a challenge—whether it’s a fresh install or testing a new window manager!
 - Exploring and learning is what keeps me excited about open source.
+
+## 📊 GitHub Stats
+
+![Legendarymsr's GitHub stats](https://github-readme-stats.vercel.app/api?username=legendarymsr&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legendarymsr&layout=compact&theme=github_dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=legendarymsr&theme=github-dark&hide_border=true)
