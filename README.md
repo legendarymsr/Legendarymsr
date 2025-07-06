@@ -28,6 +28,19 @@ Welcome to my GitHub profile! I’m a passionate Linux hobbyist who loves explor
 
 ## 📊 GitHub Stats
 
-![Legendarymsr's GitHub stats](https://github-readme-stats.vercel.app/api?username=legendarymsr&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legendarymsr&layout=compact&theme=github_dark)
-![GitHub Streak](https://streak-stats.demolab.com/?user=legendarymsr&theme=github-dark&hide_border=true)
+<div align="center">
+</p>
+<p>
+  <img src="img/2b.gif" alt="2B">
+</p>
+<p>
+  <a href="https://github.com/gnukeith">
+    <img src="https://github-readme-stats.vercel.app/api?username=legendarymsr&show_icons=true&theme=graywhite&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=ffffff" alt="Operation Record - legendarymsr">
+  </a>
+</p>
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=legendarymsr&theme=xcode&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Tactical Support Unit Analysis">
+</p>
+<p>
+</p>
+</div>
