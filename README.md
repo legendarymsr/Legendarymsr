@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I’m a passionate Linux hobbyist who loves explor
   <img src="img/2b.gif" alt="2B">
 </p>
 <p>
-  <a href="https://github.com/gnukeith">
+  <a href="https://github.com/legendarymsr">
     <img src="https://github-readme-stats.vercel.app/api?username=legendarymsr&show_icons=true&theme=graywhite&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=ffffff" alt="Operation Record - legendarymsr">
   </a>
 </p>
