@@ -20,7 +20,16 @@ Welcome to my GitHub profile! I’m a passionate Linux hobbyist who loves explor
 - [`hyprland-dotfiles-nix`](https://github.com/Frost-Phoenix/nixos-config) — NixOS configurations and dotfiles for a slick Hyprland experience.
 
 ---
+## 🧰 Tech Stack
 
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=NixOS&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-303446?style=for-the-badge&logo=hyprland&logoColor=white)
+![Kitty](https://img.shields.io/badge/Kitty-222C37?style=for-the-badge&logo=kitty&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+--- 
 ### 💡 Fun Facts
 
 - Always up for a challenge—whether it’s a fresh install or testing a new window manager!
