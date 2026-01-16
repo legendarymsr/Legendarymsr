@@ -37,27 +37,20 @@ I specialize in **Hardened Systems**, **Minimalist Dotfiles**, and **Reproducibl
 | ❄️ **[NixOS Hyprland](https://github.com/Frost-Phoenix/nixos-config)** | Declarative chaos management. |
 | 🏹 **[Arch Deployment](https://github.com/Hyde-project/hyde)** | Rapid deployment scripts for disposable environments. |
 <div align="center">
-  <!-- 2B GIF (Public URL) -->
-  <p>
-    <img src="https://media1.tenor.com/m/JjY7X4Q5qwAAAAAC/nier-automata-2b.gif" width="500" alt="2B">
-  </p>
 
-  <!-- Stats Card (Fixed Color: 0d1117) -->
-  <p>
-    <a href="https://github.com/legendarymsr">
-      <img src="https://github-readme-stats.vercel.app/api?username=legendarymsr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Operation Record">
-    </a>
-  </p>
+<img src="https://media.tenor.com/JjY7X4Q5qwAAAAAC/nier-automata-2b.gif" width="500">
 
-  <!-- Activity Graph (Fixed Color: 0d1117) -->
-  <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=legendarymsr&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Tactical Support Unit Analysis">
-  </p>
+<br><br>
 
-  <br>
-  
-  <samp>
-    End of Transmission.<br>
-    Est. 2026 // <a href="https://github.com/gnukeith">Credits</a>
-  </samp>
+[![Stats](https://github-readme-stats.vercel.app/api?username=legendarymsr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/legendarymsr)
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=legendarymsr&theme=tokyonight&hide_border=true&bg_color=0d1117)
+
+<br>
+
+<samp>
+End of Transmission.<br>
+Est. 2026
+</samp>
+
 </div>
