@@ -42,10 +42,10 @@ I specialize in **Hardened Systems**, **Minimalist Dotfiles**, and **Reproducibl
 ### 📊 TACTICAL ANALYSIS
 
 <a href="https://github.com/legendarymsr">
-  <img src="https://github-readme-stats.vercel.app/api?username=legendarymsr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Operation Record">
+  <img src="https://github-readme-stats.vercel.app/api?username=legendarymsr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=transparent" alt="Operation Record">
 </a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=legendarymsr&theme=tokyonight&bg_color=00000000&hide_border=true&area=true" alt="Activity Graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=legendarymsr&theme=tokyonight&bg_color=transparent&hide_border=true&area=true" alt="Activity Graph">
 
 <br>
 
