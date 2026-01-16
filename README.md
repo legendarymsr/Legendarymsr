@@ -1,60 +1,57 @@
-# 👋 Hi there, I’m legendarymsr!
-
-## 🐧 Linux Hobbyist | Dotfiles Enthusiast
-
-Welcome to my GitHub profile! I’m a passionate Linux hobbyist who loves exploring, tweaking, and customizing all things Linux. My main playgrounds are **Arch Linux** and **NixOS**, where I enjoy experimenting with different setups, window managers, and install scripts.
-
----
-
-### 🌟 What I Do
-
-- 🚀 **Fast Arch Setups:** I’m "skilled" at rapidly installing Arch Linux and getting up and running in no time.
-  - 🛠 **Simple, Detailed Install Scripts:** I value clean, well-documented scripts that make life easier for fellow Linux enthusiasts.
-- 📚 **Constant Learning:** I love exploring new Linux tools, configs, and ways to make my environment even better.
-
----
-
-### 🔥 Favorite Projects
-
-- [`hyprland-dotfiles-arch`](https://github.com/Hyde-project/hyde) — dotfiles and setup scripts for Hyprland on Arch Linux.
-- [`hyprland-dotfiles-nix`](https://github.com/Frost-Phoenix/nixos-config) — NixOS configurations and dotfiles for a slick Hyprland experience.
-
----
-## 🧰 Tech Stack
-
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=NixOS&logoColor=white)
-![Hyprland](https://img.shields.io/badge/Hyprland-303446?style=for-the-badge&logo=hyprland&logoColor=white)
-![Kitty](https://img.shields.io/badge/Kitty-222C37?style=for-the-badge&logo=kitty&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
---- 
-### 💡 Fun Facts
-
-- Always up for a challenge—whether it’s a fresh install or testing a new window manager!
-- Exploring and learning is what keeps me excited about open source.
-
-##
-
 <div align="center">
+
+# ⚡ SYSTEM STATUS: ONLINE
+
+<img src="img/2b.gif" width="600" alt="2B">
+
+### <code>Legend @ Kernel Panic</code>
+*Automating the inevitable.*
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white">
+  <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=NixOS&logoColor=white">
+  <img src="https://img.shields.io/badge/Guix-333333?style=for-the-badge&logo=gnu&logoColor=white">
 </p>
-<p>
-  <img src="img/2b.gif" alt="2B">
+<p align="center">
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white">
+  <img src="https://img.shields.io/badge/Lua-2c2d72?style=for-the-badge&logo=lua&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Hyprland-303446?style=for-the-badge&logo=hyprland&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
-<p>
-  <a href="https://github.com/legendarymsr">
-    <img src="https://github-readme-stats.vercel.app/api?username=legendarymsr&show_icons=true&theme=graywhite&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=ffffff" alt="Operation Record - legendarymsr">
-  </a>
-</p>
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=legendarymsr&theme=xcode&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Tactical Support Unit Analysis">
-</p>
-<p>
-</p>
+
+---
+
+### 📡 SIGNAL INTERCEPT
+
+> "I don't just use Linux; I compile my own suffering."
+
+I specialize in **Hardened Systems**, **Minimalist Dotfiles**, and **Reproducible Environments**. My workflow is terminal-centric, keyboard-driven, and designed for maximum efficiency in hostile environments (or just coffee shops).
+
+| **Active Operations** | **Description** |
+| :--- | :--- |
+| 🛡️ **[Legenddots](https://github.com/legendarymsr/legenddots)** | Cross-platform Identity Config (Arch/Termux/Gentoo). |
+| ❄️ **[NixOS Hyprland](https://github.com/Frost-Phoenix/nixos-config)** | Declarative chaos management. |
+| 🏹 **[Arch Deployment](https://github.com/Hyde-project/hyde)** | Rapid deployment scripts for disposable environments. |
+
+---
+
+### 📊 TACTICAL ANALYSIS
+
+<a href="https://github.com/legendarymsr">
+  <img src="https://github-readme-stats.vercel.app/api?username=legendarymsr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Operation Record">
+</a>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=legendarymsr&theme=tokyonight&bg_color=00000000&hide_border=true&area=true" alt="Activity Graph">
+
+<br>
+
+<samp>
+End of Transmission.<br>
+Est. 2026 // <a href="https://github.com/gnukeith">Credits</a>
+</samp>
+
 </div>
-Taken from 
-
-- [`gnukeith`](https://twitter.com/gnukeith/status/1941872510238101604)
-
-- [`gnukeith's github`](https://github.com/gnukeith)  
