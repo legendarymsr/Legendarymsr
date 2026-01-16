@@ -41,8 +41,6 @@ I specialize in **Hardened Systems**, **Minimalist Dotfiles**, and **Reproducibl
 | Target | Classification | Status |
 | :--- | :--- | :--- |
 | **[Legenddots](https://github.com/legendarymsr/legenddots)** | `Identity Config` | **[ACTIVE]** Cross-platform C2 (Arch/Termux/Gentoo). |
-| **[NixOS Config](https://github.com/Frost-Phoenix/nixos-config)** | `System State` | **[STABLE]** Declarative Hyprland environment. |
-| **[Arch Deploy](https://github.com/Hyde-project/hyde)** | `Payload` | **[DEPLOYED]** Rapid setup scripts. |
 
 ---
 
