@@ -1,11 +1,14 @@
-<div align="center">
+### `legendarymsr@github:~$` ./identity.sh
 
-# ⚡ SYSTEM STATUS: ONLINE
+```bash
+# SYSTEM STATUS: OPERATIONAL
+# KERNEL: HARDENED
+# UPTIME: EST. 2026
 
-<img src="img/2b.gif" width="600" alt="2B">
-
-### <code>Legend @ Kernel Panic</code>
-*Automating the inevitable.*
+User:     Legend
+Role:     Red Team Operator / Systems Architect
+Focus:    Reproducible Chaos & Minimalist Environments
+```
 
 ---
 
@@ -20,37 +23,29 @@
   <img src="https://img.shields.io/badge/Lua-2c2d72?style=for-the-badge&logo=lua&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Hyprland-303446?style=for-the-badge&logo=hyprland&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
 ---
 
-### 📡 SIGNAL INTERCEPT
+### 📡 // SIGNAL INTERCEPT
 
-> "I don't just use Linux; I compile my own suffering."
+I don't just use Linux; I compile my own suffering. My workflow is terminal-centric, keyboard-driven, and designed for maximum efficiency in hostile environments.
 
-I specialize in **Hardened Systems**, **Minimalist Dotfiles**, and **Reproducible Environments**. My workflow is terminal-centric, keyboard-driven, and designed for maximum efficiency in hostile environments (or just coffee shops).
+> "Minimalism is a defensive posture."
 
-| **Active Operations** | **Description** |
-| :--- | :--- |
-| 🛡️ **[Legenddots](https://github.com/legendarymsr/legenddots)** | Cross-platform Identity Config (Arch/Termux/Gentoo). |
-| ❄️ **[NixOS Hyprland](https://github.com/Frost-Phoenix/nixos-config)** | Declarative chaos management. |
-| 🏹 **[Arch Deployment](https://github.com/Hyde-project/hyde)** | Rapid deployment scripts for disposable environments. |
-<div align="center">
+---
 
-<img src="https://media.tenor.com/JjY7X4Q5qwAAAAAC/nier-automata-2b.gif" width="500">
+### 📂 // ACTIVE OPERATIONS
 
-<br><br>
+| Target | Classification | Status |
+| :--- | :--- | :--- |
+| **[Legenddots](https://github.com/legendarymsr/legenddots)** | `Identity Config` | **[ACTIVE]** Cross-platform C2 (Arch/Termux). |
+| **[NixOS Config](https://github.com/Frost-Phoenix/nixos-config)** | `System State` | **[STABLE]** Declarative Hyprland environment. |
+| **[Arch Deploy](https://github.com/Hyde-project/hyde)** | `Payload` | **[DEPLOYED]** Rapid setup scripts. |
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=legendarymsr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/legendarymsr)
+---
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=legendarymsr&theme=tokyonight&hide_border=true&bg_color=0d1117)
-
-<br>
-
-<samp>
-End of Transmission.<br>
-Est. 2026
-</samp>
-
-</div>
+```text
+EOF
+Connection Terminated.
+```
