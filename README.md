@@ -25,6 +25,8 @@
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=legendarymsr&show_icons=true&theme=tokyonight)
+<!-- Stats Card: Forced Dark Background, Tokyo Night Text, Cache Buster t=2 -->
+![Stats](https://github-readme-stats.vercel.app/api?username=legendarymsr&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&t=2)
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=legendarymsr&theme=tokyonight&hide_border=true&area=true)
+<!-- Activity Graph: Forced Dark Background, Blue/White lines, Cache Buster t=2 -->
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=legendarymsr&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true&t=2)
