@@ -1,21 +1,42 @@
-# ⚡ SYSTEM STATUS: LEGENDARY
+### `root@legend:~$` ./status_report.sh --verbose
 
-> "I don't just use Linux; I compile my own suffering."
+```bash
+> ESTABLISHING SECURE CONNECTION...  [OK]
+> MOUNTING KERNEL MODULES...         [OK]
+> LOADING IDENTITY CONFIG...         [OK]
 
----
-
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
-![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=NixOS&logoColor=white)
-![Guix](https://img.shields.io/badge/Guix-333333?style=for-the-badge&logo=gnu&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2c2d72?style=for-the-badge&logo=lua&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Hyprland](https://img.shields.io/badge/Hyprland-303446?style=for-the-badge&logo=hyprland&logoColor=white)
+USER:    Legend
+CLASS:   Red Team Operator / Systems Architect
+STACK:   Hardened Gentoo / Arch / Guix / NixOS
+STATUS:  Compiling...
+```
 
 ---
 
-### 📂 ACTIVE OPERATIONS
+<p align="center">
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white">
+  <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=NixOS&logoColor=white">
+  <img src="https://img.shields.io/badge/Guix-333333?style=for-the-badge&logo=gnu&logoColor=white">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white">
+  <img src="https://img.shields.io/badge/Lua-2c2d72?style=for-the-badge&logo=lua&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Hyprland-303446?style=for-the-badge&logo=hyprland&logoColor=white">
+</p>
+
+---
+
+### 📡 // SIGNAL INTERCEPT
+
+I specialize in **Hardened Systems**, **Minimalist Dotfiles**, and **Reproducible Environments**. My workflow is terminal-centric, keyboard-driven, and designed for maximum efficiency in hostile environments.
+
+> "Minimalism is a defensive posture."
+
+---
+
+### 📂 // ACTIVE OPERATIONS
 
 | Target | Classification | Status |
 | :--- | :--- | :--- |
@@ -25,8 +46,8 @@
 
 ---
 
-<!-- Stats Card: Forced Dark Background, Tokyo Night Text, Cache Buster t=2 -->
-![Stats](https://github-readme-stats.vercel.app/api?username=legendarymsr&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&t=2)
-
-<!-- Activity Graph: Forced Dark Background, Blue/White lines, Cache Buster t=2 -->
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=legendarymsr&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true&t=2)
+```text
+EOF
+Connection Terminated.
+Est. 2026
+```
