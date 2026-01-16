@@ -36,22 +36,28 @@ I specialize in **Hardened Systems**, **Minimalist Dotfiles**, and **Reproducibl
 | 🛡️ **[Legenddots](https://github.com/legendarymsr/legenddots)** | Cross-platform Identity Config (Arch/Termux/Gentoo). |
 | ❄️ **[NixOS Hyprland](https://github.com/Frost-Phoenix/nixos-config)** | Declarative chaos management. |
 | 🏹 **[Arch Deployment](https://github.com/Hyde-project/hyde)** | Rapid deployment scripts for disposable environments. |
+<div align="center">
+  <!-- 2B GIF (Public URL) -->
+  <p>
+    <img src="https://media1.tenor.com/m/JjY7X4Q5qwAAAAAC/nier-automata-2b.gif" width="500" alt="2B">
+  </p>
 
----
+  <!-- Stats Card (Fixed Color: 0d1117) -->
+  <p>
+    <a href="https://github.com/legendarymsr">
+      <img src="https://github-readme-stats.vercel.app/api?username=legendarymsr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Operation Record">
+    </a>
+  </p>
 
-### 📊 TACTICAL ANALYSIS
+  <!-- Activity Graph (Fixed Color: 0d1117) -->
+  <p>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=legendarymsr&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Tactical Support Unit Analysis">
+  </p>
 
-<a href="https://github.com/legendarymsr">
-  <img src="https://github-readme-stats.vercel.app/api?username=legendarymsr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=transparent" alt="Operation Record">
-</a>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=legendarymsr&theme=tokyonight&bg_color=transparent&hide_border=true&area=true" alt="Activity Graph">
-
-<br>
-
-<samp>
-End of Transmission.<br>
-Est. 2026 // <a href="https://github.com/gnukeith">Credits</a>
-</samp>
-
+  <br>
+  
+  <samp>
+    End of Transmission.<br>
+    Est. 2026 // <a href="https://github.com/gnukeith">Credits</a>
+  </samp>
 </div>
