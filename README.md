@@ -23,7 +23,7 @@ STATUS:  Compiling...
 - **Kernel:** Linux 6.18.5-gentoo
 
 ### 2. Field Rig (Mobile Development)
-- **Model:** Samsung Z Flip4 (SM-F721B)
+- **Model:** Samsung Z Flip4
 - **OS:** One UI 8 | magisk rooted | NetHunter 
 
 ### 3. Auxiliary / Bridge
@@ -53,5 +53,3 @@ STATUS:  Compiling...
 - **Reproducibility:** If I can't compile it from source, I don't run it.
 - **Defense:** Stealth via randomization and egress control.
 - **Identity:** Decentralized. 
-
----
